@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<songlist>
+    <song id="101">
+         <title>Tusk</title>
+         <artist>Fleetwood Mac</artist>
+         <country>USA</country>
+         <genre>Rock</genre>
+         <year>2021</year>         
+    </song>
+    <song id="102">
+         <title>Thriller</title>
+         <artist>Michael Jackson</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>1984</year>         
+    </song>
+    <song id="103">
+         <title>Revolution</title>
+         <artist>Tracy Chapman</artist>
+         <country>USA</country>
+         <genre>Indie</genre>
+         <year>1984</year>         
+    </song>
+    <song id="104">
+         <title>Want to want me</title>
+         <artist>Jason Derulo</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2014</year>         
+    </song>
+    <song id="105">
+         <title>The other side</title>
+         <artist>Jason Derulo</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2015</year>         
+    </song>
+    <song id="106">
+         <title>Nie genug</title>
+         <artist>Christina Stürmer</artist>
+         <country>Austria</country>
+         <genre>Rock</genre>
+         <year>2006</year>         
+    </song>
+    <song id="107">
+         <title>He wasn't man enough</title>
+         <artist>Toni Braxton</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2000</year>         
+    </song>
+    <song id="108">
+         <title>Whats love got to do with it</title>
+         <artist>Warren G</artist>
+         <country>USA</country>
+         <genre>HipHop</genre>
+         <year>1996</year>         
+    </song>
+    <song id="109">
+         <title>Regulate</title>
+         <artist>Warren G</artist>
+         <country>USA</country>
+         <genre>HipHop</genre>
+         <year>1994</year>         
+    </song>
+    <song id="110">
+         <title>I got love</title>
+         <artist>Nate Dogg</artist>
+         <country>USA</country>
+         <genre>hipHop</genre>
+         <year>2009</year>         
+    </song>
+    <song id="111">
+         <title>Changes</title>
+         <artist>2Pac</artist>
+         <country>USA</country>
+         <genre>HipHop</genre>
+         <year>1998</year>         
+    </song>
+    <song id="112">
+         <title>How do you want it</title>
+         <artist>2Pac</artist>
+         <country>USA</country>
+         <genre>Rap</genre>
+         <year>1996</year>         
+    </song>
+    <song id="113">
+         <title>Lost without you</title>
+         <artist>Robin Thickle</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2006</year>         
+    </song>
+    <song id="114">
+         <title>Back together</title>
+         <artist>Robin Thickle</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2006</year>         
+    </song>
+    <song id="115">
+         <title>It's not right but it's okay</title>
+         <artist>Whitney Houston</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>1998</year>         
+    </song>
+    <song id="116">
+         <title>Fight to survive</title>
+         <artist>Stan Bush</artist>
+         <country>USA</country>
+         <genre>Rock</genre>
+         <year>1990</year>         
+    </song>
+    <song id="117">
+         <title>Winner takes it all</title>
+         <artist>Sammy Hagar</artist>
+         <country>USA</country>
+         <genre>Rock</genre>
+         <year>1987</year>         
+    </song>
+    <song id="118">
+         <title>Hate that I love you</title>
+         <artist>Rhianna</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2008</year>         
+    </song>
+    <song id="119">
+         <title>Treasure</title>
+         <artist>Bruno Mars</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2012</year>         
+    </song>
+    <song id="120">
+         <title>I feel it coming</title>
+         <artist>The Weeknd</artist>
+         <country>USA</country>
+         <genre>Pop</genre>
+         <year>2018</year>         
+    </song>
+</songlist>
